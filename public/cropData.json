@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "title": "Rice",
+    "soil": [
+      "Clay Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Flood Irrigation",
+      "Canal Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://res.cloudinary.com/dsph2xdl1/image/upload/v1778991230/614uDLoC-uL._AC_UF894_1000_QL80__d8gkuo.jpg",
+    "description": "Rice grows well in wet and humid climate."
+  },
+  {
+    "id": 2,
+    "title": "Wheat",
+    "soil": [
+      "Loamy Soil",
+      "Clay Soil"
+    ],
+    "irrigation": [
+      "Canal Irrigation",
+      "Sprinkler Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://res.cloudinary.com/dsph2xdl1/image/upload/v1778991363/wheat_1200x_nklsdj.jpg",
+    "description": "Wheat grows in winter season."
+  },
+  {
+    "id": 3,
+    "title": "Maize",
+    "soil": [
+      "Rich Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Sprinkler Irrigation",
+      "Center Pivot Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://res.cloudinary.com/dsph2xdl1/image/upload/v1778991928/gstbmxpt21fjgb8htkwm.jpg",
+    "description": "Maize requires moderate rainfall."
+  },
+  {
+    "id": 4,
+    "title": "Cotton",
+    "soil": [
+      "Black Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Drip Irrigation",
+      "Furrow Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://www.saatva.com/blog/wp-content/uploads/2023/01/15666ab2-5580-4151-a4fe-4d3eba64aaaf_difference-between-organic-cotton-vs-cotton-4.jpg",
+    "description": "Cotton requires black soil."
+  },
+  {
+    "id": 5,
+    "title": "Sugarcane",
+    "soil": [
+      "Loamy Soil",
+      "Clay Soil"
+    ],
+    "irrigation": [
+      "Canal Irrigation",
+      "Flood Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://www.renature.co/wp-content/uploads/2020/02/maxresdefault.jpg",
+    "description": "Sugarcane grows in tropical climate."
+  },
+  {
+    "id": 6,
+    "title": "Tomato",
+    "soil": [
+      "Sandy Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Drip Irrigation",
+      "Sprinkler Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://cropxr.org/wp-content/uploads/sites/475/2024/02/Tomato-3_1280-1024x674.jpg",
+    "description": "Tomato grows in warm climate."
+  },
+  {
+    "id": 7,
+    "title": "Potato",
+    "soil": [
+      "Sandy Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Sprinkler Irrigation",
+      "Drip Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://www.kew.org/sites/default/files/styles/plant_image_953w/public/2025-01/many-potatoes-solanum-tuberosum.jpg.webp?itok=vTBE-XTL",
+    "description": "Potato grows in cool climate."
+  },
+  {
+    "id": 8,
+    "title": "Banana",
+    "soil": [
+      "Clay Soil",
+      "Rich Soil"
+    ],
+    "irrigation": [
+      "Flood Irrigation",
+      "Drip Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://res.cloudinary.com/dsph2xdl1/image/upload/v1778991651/Headers-August-2022-31_fggejv.jpg",
+    "description": "Banana grows in tropical regions."
+  },
+  {
+    "id": 9,
+    "title": "Groundnut",
+    "soil": [
+      "Sandy Soil",
+      "Dry Soil"
+    ],
+    "irrigation": [
+      "Drip Irrigation",
+      "Sprinkler Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://cdn.wikifarmer.com/images/thumbnail/2023/07/Groundnut-Plant-Information-History-Uses-and-Nutrition-Value-1200x630.jpg",
+    "description": "Groundnut grows in sandy soil."
+  },
+  {
+    "id": 10,
+    "title": "Brinjal",
+    "soil": [
+      "Loamy Soil",
+      "Sandy Soil"
+    ],
+    "irrigation": [
+      "Manual Irrigation",
+      "Drip Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "http://foodcare.in/cdn/shop/files/roundbrinjal_600x_6784b381-a3f3-478c-8aa8-b32e15b96b3b.webp?v=1768271811",
+    "description": "Brinjal grows in warm climate."
+  },
+  {
+    "id": 11,
+    "title": "Cabbage",
+    "soil": [
+      "Clay Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Sprinkler Irrigation",
+      "Drip Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://hub.suttons.co.uk/wp-content/uploads/2025/01/suttons.cabbage.sunta_.jpg",
+    "description": "Cabbage grows in cool conditions."
+  },
+  {
+    "id": 12,
+    "title": "Carrot",
+    "soil": [
+      "Sandy Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Drip Irrigation",
+      "Manual Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "http://www.groworganic.com/cdn/shop/articles/Carrots5_e78031f7-6928-4065-89fd-8068f59675be.png?v=1774466054",
+    "description": "Carrot requires loose soil."
+  },
+  {
+    "id": 13,
+    "title": "Sunflower",
+    "soil": [
+      "Loamy Soil",
+      "Dry Soil"
+    ],
+    "irrigation": [
+      "Sprinkler Irrigation",
+      "Surface Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://www.gardenia.net/wp-content/uploads/2024/01/shutterstock_2084235901.jpg",
+    "description": "Sunflower requires sunlight."
+  },
+  {
+    "id": 14,
+    "title": "Soybean",
+    "soil": [
+      "Rich Soil",
+      "Loamy Soil"
+    ],
+    "irrigation": [
+      "Drip Irrigation",
+      "Sprinkler Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://static.toiimg.com/thumb/msid-116307905,width-1280,height-720,resizemode-4/116307905.jpg",
+    "description": "Soybean is rich in protein."
+  },
+  {
+    "id": 15,
+    "title": "Millets",
+    "soil": [
+      "Dry Soil",
+      "Sandy Soil"
+    ],
+    "irrigation": [
+      "Manual Irrigation",
+      "Surface Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://www.zettafarms.com/wp-content/uploads/2024/01/blog-7.jpg",
+    "description": "Millets require less water."
+  },
+  {
+    "id": 16,
+    "title": "Pulses",
+    "soil": [
+      "Loamy Soil",
+      "Rich Soil"
+    ],
+    "irrigation": [
+      "Drip Irrigation",
+      "Manual Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://www.protectourlivelihood.in/wp-content/uploads/2025/04/Image-Pulses.jpg",
+    "description": "Pulses improve soil fertility."
+  },
+  {
+    "id": 17,
+    "title": "Coffee",
+    "soil": [
+      "Rich Soil",
+      "Acidic Soil"
+    ],
+    "irrigation": [
+      "Sprinkler Irrigation",
+      "Canal Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://www.nescafe.com/gb/sites/default/files/styles/image_webp_conversion/public/2023-11/Untitled-5 copy_6.jpg.webp?itok=1YPHhf00",
+    "description": "Coffee grows in tropical climate."
+  },
+  {
+    "id": 18,
+    "title": "Tea",
+    "soil": [
+      "Acidic Soil",
+      "Rich Soil"
+    ],
+    "irrigation": [
+      "Canal Irrigation",
+      "Sprinkler Irrigation"
+    ],
+    "farmType": [
+      "Large Scale Farming"
+    ],
+    "image": "https://gopaldharaindia.com/wp-content/uploads/2025/10/Second-flush-Banner.png",
+    "description": "Tea plantations need humid climate."
+  },
+  {
+    "id": 19,
+    "title": "Papaya",
+    "soil": [
+      "Sandy Soil",
+      "Rich Soil"
+    ],
+    "irrigation": [
+      "Drip Irrigation",
+      "Flood Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe",
+    "description": "Papaya grows in tropical regions."
+  },
+  {
+    "id": 20,
+    "title": "Orange",
+    "soil": [
+      "Loamy Soil",
+      "Rich Soil"
+    ],
+    "irrigation": [
+      "Sprinkler Irrigation",
+      "Drip Irrigation"
+    ],
+    "farmType": [
+      "Small Scale Farming"
+    ],
+    "image": "https://www.paperandtea.com/cdn/shop/articles/Orange_f482ca2f-15e9-4d04-b3ca-22fc5305baf9.jpg?v=1776780277&width=1500",
+    "description": "Orange requires sunlight."
+  }
+]

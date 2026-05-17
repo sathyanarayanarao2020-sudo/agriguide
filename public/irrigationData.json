@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+
+    "title": "Drip Irrigation",
+
+    "meaning":
+      "Drip irrigation is a modern irrigation method where water is supplied directly to the roots of plants drop by drop.",
+
+    "water": "Low",
+
+    "image":
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854",
+
+    "description":
+      "Drip irrigation supplies water directly to plant roots using pipes and emitters.",
+
+    "advantages":
+      "Saves water, improves crop growth and reduces weed growth.",
+
+    "disadvantages":
+      "Installation cost is high.",
+
+    "suitable":
+      "Banana, Tomato, Cotton, Sugarcane"
+  },
+
+  {
+    "id": 2,
+
+    "title": "Sprinkler Irrigation",
+
+    "meaning":
+      "Sprinkler irrigation is a method where water is sprayed over crops like natural rainfall.",
+
+    "water": "Medium",
+
+    "image":
+      "https://images.unsplash.com/photo-1464226184884-fa280b87c399",
+
+    "description":
+      "Sprinklers distribute water uniformly like rainfall over crops.",
+
+    "advantages":
+      "Uniform water distribution and suitable for uneven lands.",
+
+    "disadvantages":
+      "Water evaporation may occur.",
+
+    "suitable":
+      "Wheat, Groundnut, Vegetables"
+  },
+
+  {
+    "id": 3,
+
+    "title": "Flood Irrigation",
+
+    "meaning":
+      "Flood irrigation is a traditional irrigation method where fields are flooded with water.",
+
+    "water": "High",
+
+    "image":
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef",
+
+    "description":
+      "Flood irrigation allows water to flow freely across agricultural land.",
+
+    "advantages":
+      "Simple method and low installation cost.",
+
+    "disadvantages":
+      "High water wastage.",
+
+    "suitable":
+      "Rice, Paddy"
+  },
+
+  {
+    "id": 4,
+
+    "title": "Canal Irrigation",
+
+    "meaning":
+      "Canal irrigation uses canals to supply river water to agricultural fields.",
+
+    "water": "High",
+
+    "image":
+      "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+
+    "description":
+      "Canals carry river water to agricultural lands for irrigation.",
+
+    "advantages":
+      "Useful for large-scale farming.",
+
+    "disadvantages":
+      "Requires regular maintenance.",
+
+    "suitable":
+      "Sugarcane, Rice, Wheat"
+  },
+
+  {
+    "id": 5,
+
+    "title": "Surface Irrigation",
+
+    "meaning":
+      "Surface irrigation is a method where water flows naturally across the soil surface.",
+
+    "water": "Medium",
+
+    "image":
+      "https://images.unsplash.com/photo-1465379944081-7f47de8d74ac",
+
+    "description":
+      "Water flows naturally across the soil surface to irrigate crops.",
+
+    "advantages":
+      "Easy and inexpensive method.",
+
+    "disadvantages":
+      "Water distribution may be uneven.",
+
+    "suitable":
+      "Rice, Wheat"
+  },
+
+  {
+    "id": 6,
+
+    "title": "Subsurface Irrigation",
+
+    "meaning":
+      "Subsurface irrigation supplies water below the soil surface directly to roots.",
+
+    "water": "Low",
+
+    "image":
+      "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+
+    "description":
+      "Water is supplied below the soil surface directly to roots.",
+
+    "advantages":
+      "Reduces evaporation and saves water.",
+
+    "disadvantages":
+      "Difficult installation and maintenance.",
+
+    "suitable":
+      "Vegetables, Fruit Crops"
+  },
+
+  {
+    "id": 7,
+
+    "title": "Center Pivot Irrigation",
+
+    "meaning":
+      "Center pivot irrigation uses rotating sprinklers to irrigate large circular fields.",
+
+    "water": "Medium",
+
+    "image":
+      "https://images.unsplash.com/photo-1492496913980-501348b61469",
+
+    "description":
+      "A rotating sprinkler system irrigates crops in circular patterns.",
+
+    "advantages":
+      "Efficient for large agricultural fields.",
+
+    "disadvantages":
+      "High equipment cost.",
+
+    "suitable":
+      "Maize, Wheat"
+  },
+
+  {
+    "id": 8,
+
+    "title": "Manual Irrigation",
+
+    "meaning":
+      "Manual irrigation is the traditional method of supplying water manually using buckets and pipes.",
+
+    "water": "Low",
+
+    "image":
+      "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8",
+
+    "description":
+      "Water is manually supplied using buckets, pipes or watering cans.",
+
+    "advantages":
+      "Simple and suitable for small farms.",
+
+    "disadvantages":
+      "Requires more labor.",
+
+    "suitable":
+      "Home Gardens, Small Farms"
+  },
+
+  {
+    "id": 9,
+
+    "title": "Basin Irrigation",
+
+    "meaning":
+      "Basin irrigation is a method where water is supplied in small basins around plants.",
+
+    "water": "Medium",
+
+    "image":
+      "https://images.unsplash.com/photo-1464226184884-fa280b87c399",
+
+    "description":
+      "Basin irrigation involves filling basins around plants with water.",
+
+    "advantages":
+      "Good water control.",
+
+    "disadvantages":
+      "Not suitable for all crops.",
+
+    "suitable":
+      "Fruit Trees"
+  },
+
+  {
+    "id": 10,
+
+    "title": "Furrow Irrigation",
+
+    "meaning":
+      "Furrow irrigation supplies water through furrows between crop rows.",
+
+    "water": "Medium",
+
+    "image":
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef",
+
+    "description":
+      "Water flows through furrows between crop rows.",
+
+    "advantages":
+      "Simple and economical.",
+
+    "disadvantages":
+      "Water loss possible.",
+
+    "suitable":
+      "Cotton, Sugarcane"
+  }
+]
