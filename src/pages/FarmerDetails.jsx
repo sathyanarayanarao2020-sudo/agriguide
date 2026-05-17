@@ -1,6 +1,8 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 function FarmerDetails() {
+  const navigate = useNavigate();
 
   const [name, setName] =
     useState("");
@@ -53,7 +55,7 @@ function FarmerDetails() {
 
     );
 
-    window.location.href = "/";
+    navigate("/");
 
   };
 
