@@ -1,13 +1,8 @@
 import {
-
-  BrowserRouter,
-
+  HashRouter,
   Routes,
-
   Route,
-
   Navigate
-
 } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
@@ -51,7 +46,7 @@ function App() {
 
   return (
 
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <HashRouter>
 
       {/* NAVBAR */}
 
@@ -178,7 +173,7 @@ function App() {
 
       </Routes>
 
-    </BrowserRouter>
+    </HashRouter>
 
   );
 
