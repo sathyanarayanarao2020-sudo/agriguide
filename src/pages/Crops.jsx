@@ -14,7 +14,7 @@ function Crops() {
 
   useEffect(() => {
 
-    fetch("/cropData.json")
+    fetch(import.meta.env.BASE_URL + "cropData.json")
 
       .then((res) => res.json())
 

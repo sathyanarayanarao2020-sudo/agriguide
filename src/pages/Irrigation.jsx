@@ -10,7 +10,7 @@ function Irrigation() {
 
   useEffect(() => {
 
-    fetch("/irrigationData.json")
+    fetch(import.meta.env.BASE_URL + "irrigationData.json")
 
       .then((res) => res.json())
 
